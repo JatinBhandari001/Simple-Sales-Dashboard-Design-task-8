@@ -19,13 +19,13 @@ Design a Power BI dashboard that:
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
-- 📈 **Line Chart**: Sales over Months
-- 📊 **Bar Chart**: Sales by Region
-- 🍩 **Donut Chart**: Sales by Category
-- 🎛 **Slicers**: Region and Category
-- 💡 **KPIs**:
+-  **Line Chart**: Sales over Months
+-  **Bar Chart**: Sales by Region
+-  **Donut Chart**: Sales by Category
+-  **Slicers**: Region and Category
+-  **KPIs**:
   - Total Sales
   - Total Profit
   - Profit Margin (%)
@@ -34,14 +34,14 @@ Design a Power BI dashboard that:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Power BI (for dashboard & visualizations)
 - Excel (data handling)
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 - Creating interactive dashboards using **Power BI**
 - Using **DAX measures** to build custom KPIs
